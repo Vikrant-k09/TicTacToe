@@ -1,4 +1,4 @@
-var origBoard;
+var origBoard ;
 var whichPlayer=true;
 var isPvP=true;
 const huPlayer="O";
